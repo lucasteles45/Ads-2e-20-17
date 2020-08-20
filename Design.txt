@@ -1,0 +1,6 @@
+ - Logo Tech
+ - Design unico p/ cada plataforma
+ - Inputs - Mapa
+ - Botoes - Solictar
+ - Navegação via menu - Opções 5 Corrida/pag/ajuda/segurança/configurações
+ - Azul - fundo branco/preto

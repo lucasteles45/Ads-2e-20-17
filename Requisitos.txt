@@ -1,0 +1,7 @@
+ - Pagamento/Transações
+ - Armazenar dados
+ - Identificação de carro e funcionario
+ - Responsividade/ App mobile
+ - Usar a Internet
+ - Mapas/Location
+ - Conectar c/ o gmail

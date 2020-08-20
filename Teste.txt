@@ -1,0 +1,1 @@
+Será atraves de 20 usuarios que iram utilizar o serviço p/ ida e volta do seu trabalho, Sendo feito o stress da aplicação.

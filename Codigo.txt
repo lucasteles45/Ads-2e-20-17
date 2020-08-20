@@ -1,0 +1,23 @@
+ - Versão Web:
+	+ React 
+	+ Bootstrap
+	+ Api - Pagamento Nubank
+	+ Api - MongoDB
+	+ Api - Google Maps
+	+ Api - Gmail
+ - Versão Android:
+	+ React Native
+	+ Styled Components
+	+ Api - Pagamento Nubank 
+	+ Api - MongoDB
+	+ Api - Google Maps
+	+ Api - Gmail
+ - Versão IOS:	
+	+ React Native
+	+ Styled Components
+	+ Api - Pagamento Nubank 
+	+ Api - MongoDB
+	+ Api - Apple Maps
+	+ Api - Gmail
+
+Linguagem base : JS
